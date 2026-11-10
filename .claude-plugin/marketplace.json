@@ -1,0 +1,17 @@
+{
+  "name": "more-ambitious",
+  "owner": { "name": "YOUR_NAME" },
+  "metadata": {
+    "description": "A skill that makes requests more ambitious along four axes.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "more-ambitious",
+      "source": "./",
+      "description": "Rewrites a request so it aims higher along four axes (speed, altitude, depth, range), then offers to do the ambitious version.",
+      "version": "1.0.0",
+      "license": "MIT"
+    }
+  ]
+}

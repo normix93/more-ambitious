@@ -1,0 +1,10 @@
+{
+  "name": "more-ambitious",
+  "version": "1.0.0",
+  "description": "Rewrites a request so it aims higher along four axes (speed, altitude, depth, range), then offers to do the ambitious version.",
+  "author": { "name": "YOUR_NAME" },
+  "homepage": "https://github.com/YOUR_GITHUB_USER/more-ambitious",
+  "repository": "https://github.com/YOUR_GITHUB_USER/more-ambitious",
+  "license": "MIT",
+  "keywords": ["prompting", "ambition", "planning", "skills"]
+}

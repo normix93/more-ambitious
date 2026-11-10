@@ -1,0 +1,30 @@
+{
+  "should_trigger": [
+    "Make this more ambitious: write a blog post about our database migration.",
+    "Raise the bar on this prompt: summarise these 20 customer interviews.",
+    "How could I aim higher with this research plan before I start?",
+    "Go bigger with this: I want to build a script that tracks my monthly expenses.",
+    "Rewrite this prompt so it's deeper and more ambitious: 'analyse our churn data'.",
+    "I think I'm under-asking. Can you push this request further? 'Fix the flaky test in CI.'",
+    "Be more ambitious about my plan to learn Spanish this year.",
+    "Elevate this task: prepare the slides for Monday's quarterly review.",
+    "What would the most ambitious version of this project look like? A newsletter for my team.",
+    "Help me aim higher on this request to Claude: 'make a landing page for my app'.",
+    "Before I hand this off to an agent, make it more ambitious: 'update the README'.",
+    "Push this further along altitude, depth and range: a competitor analysis for our product."
+  ],
+  "should_not_trigger": [
+    "What's the capital of Australia?",
+    "Fix the typo in this sentence: 'teh meeting is at 3'.",
+    "Write a haiku about autumn.",
+    "Convert this CSV to JSON.",
+    "What does 'ambitious' mean in Italian?",
+    "Give me tips for writing an ambitious cover letter for a job application.",
+    "Explain the plot of Macbeth and Macbeth's ambition.",
+    "Summarise this article in three bullet points.",
+    "Just rename these variables to camelCase, nothing else.",
+    "My manager says I'm not ambitious enough at work. How should I respond?",
+    "Translate this email into French.",
+    "Scale this recipe from 4 servings to 8."
+  ]
+}
